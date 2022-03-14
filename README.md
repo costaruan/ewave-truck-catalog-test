@@ -117,7 +117,7 @@ public void ShouldNotCreateATruck_FH_2022_2025() {}
 //     - Model Year: 2025
 ```
 
-### 👉🏻 DeleteTruckTest
+### 👉🏻 DeleteTruckTests
 
 The creation of these tests is to validate and delete Trucks in the database.
 
@@ -207,7 +207,7 @@ public void ShouldUpdateATruckWithExistentId() {}
 
 Following is the link for the Curriculum Vitae in the video.
 
-🔗 [Ewave & Volvo - Video Curriculum](https://youtu.be/3EvpCXXrKfM)
+🔗 [Ewave & Volvo - Curriculum Vitae Video](https://youtu.be/3EvpCXXrKfM)
 
 ## 👦🏻 Created by [Ruan Costa](https://costaruan.dev/)
 
