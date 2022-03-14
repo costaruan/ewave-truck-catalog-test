@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TruckCatalog.API", "TruckCatalog.API\TruckCatalog.API.csproj", "{B8DD9729-FE77-4F4B-8E72-5F83522DC22E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TruckCatalog.Controllers", "TruckCatalog.Controllers\TruckCatalog.Controllers.csproj", "{27340B1F-62DC-4214-BDBA-70ED33EE3368}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TruckCatalog.Data", "TruckCatalog.Data\TruckCatalog.Data.csproj", "{1ADBBA5B-CAB5-4F9C-8B18-8966324B75A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TruckCatalog.Models", "TruckCatalog.Models\TruckCatalog.Models.csproj", "{B842F2DC-59F7-4D9C-B6BF-0E9670874805}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TruckCatalog.Validations", "TruckCatalog.Validations\TruckCatalog.Validations.csproj", "{ECC9D87F-8384-4179-8256-90BF86D43F6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckCatalog.Tests", "TruckCatalog.Tests\TruckCatalog.Tests.csproj", "{27C08720-D384-4982-8EFF-93E5B4D9469F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8DD9729-FE77-4F4B-8E72-5F83522DC22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DD9729-FE77-4F4B-8E72-5F83522DC22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DD9729-FE77-4F4B-8E72-5F83522DC22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DD9729-FE77-4F4B-8E72-5F83522DC22E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27340B1F-62DC-4214-BDBA-70ED33EE3368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27340B1F-62DC-4214-BDBA-70ED33EE3368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27340B1F-62DC-4214-BDBA-70ED33EE3368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27340B1F-62DC-4214-BDBA-70ED33EE3368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ADBBA5B-CAB5-4F9C-8B18-8966324B75A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADBBA5B-CAB5-4F9C-8B18-8966324B75A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADBBA5B-CAB5-4F9C-8B18-8966324B75A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADBBA5B-CAB5-4F9C-8B18-8966324B75A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B842F2DC-59F7-4D9C-B6BF-0E9670874805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B842F2DC-59F7-4D9C-B6BF-0E9670874805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B842F2DC-59F7-4D9C-B6BF-0E9670874805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B842F2DC-59F7-4D9C-B6BF-0E9670874805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC9D87F-8384-4179-8256-90BF86D43F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC9D87F-8384-4179-8256-90BF86D43F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC9D87F-8384-4179-8256-90BF86D43F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC9D87F-8384-4179-8256-90BF86D43F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C08720-D384-4982-8EFF-93E5B4D9469F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C08720-D384-4982-8EFF-93E5B4D9469F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C08720-D384-4982-8EFF-93E5B4D9469F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C08720-D384-4982-8EFF-93E5B4D9469F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD9B44BC-52ED-4C9C-B728-A012D698EE11}
+	EndGlobalSection
+EndGlobal

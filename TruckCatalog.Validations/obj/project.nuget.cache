@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "savMo5+unG0emn1yhWYbTO+JOp4Z54e892j+zipZ7orGnHPUZ/cI8A1tZZAjoINyxzPN4UB0MdZJP9UBkFhv1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\costa\\source\\repos\\TruckCatalog\\TruckCatalog.Validations\\TruckCatalog.Validations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\costa\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

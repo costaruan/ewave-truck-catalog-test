@@ -1,0 +1,11 @@
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Models\bin\Debug\net5.0\TruckCatalog.Models.deps.json
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Models\bin\Debug\net5.0\TruckCatalog.Models.dll
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Models\bin\Debug\net5.0\ref\TruckCatalog.Models.dll
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Models\bin\Debug\net5.0\TruckCatalog.Models.pdb
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Models\obj\Debug\net5.0\TruckCatalog.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Models\obj\Debug\net5.0\TruckCatalog.Models.AssemblyInfoInputs.cache
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Models\obj\Debug\net5.0\TruckCatalog.Models.AssemblyInfo.cs
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Models\obj\Debug\net5.0\TruckCatalog.Models.csproj.CoreCompileInputs.cache
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Models\obj\Debug\net5.0\TruckCatalog.Models.dll
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Models\obj\Debug\net5.0\ref\TruckCatalog.Models.dll
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Models\obj\Debug\net5.0\TruckCatalog.Models.pdb

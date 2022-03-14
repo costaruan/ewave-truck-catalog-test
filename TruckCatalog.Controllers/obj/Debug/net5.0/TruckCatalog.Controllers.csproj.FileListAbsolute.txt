@@ -1,0 +1,17 @@
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\bin\Debug\net5.0\TruckCatalog.Controllers.deps.json
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\bin\Debug\net5.0\TruckCatalog.Controllers.dll
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\bin\Debug\net5.0\ref\TruckCatalog.Controllers.dll
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\bin\Debug\net5.0\TruckCatalog.Controllers.pdb
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\bin\Debug\net5.0\TruckCatalog.Data.dll
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\bin\Debug\net5.0\TruckCatalog.Models.dll
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\bin\Debug\net5.0\TruckCatalog.Data.pdb
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\bin\Debug\net5.0\TruckCatalog.Models.pdb
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\obj\Debug\net5.0\TruckCatalog.Controllers.csproj.AssemblyReference.cache
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\obj\Debug\net5.0\TruckCatalog.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\obj\Debug\net5.0\TruckCatalog.Controllers.AssemblyInfoInputs.cache
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\obj\Debug\net5.0\TruckCatalog.Controllers.AssemblyInfo.cs
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\obj\Debug\net5.0\TruckCatalog.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\obj\Debug\net5.0\TruckCatalog.Controllers.csproj.CopyComplete
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\obj\Debug\net5.0\TruckCatalog.Controllers.dll
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\obj\Debug\net5.0\ref\TruckCatalog.Controllers.dll
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Controllers\obj\Debug\net5.0\TruckCatalog.Controllers.pdb

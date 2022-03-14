@@ -1,0 +1,15 @@
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Validations\bin\Debug\net5.0\TruckCatalog.Validations.deps.json
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Validations\bin\Debug\net5.0\TruckCatalog.Validations.dll
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Validations\bin\Debug\net5.0\ref\TruckCatalog.Validations.dll
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Validations\bin\Debug\net5.0\TruckCatalog.Validations.pdb
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Validations\bin\Debug\net5.0\TruckCatalog.Models.dll
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Validations\bin\Debug\net5.0\TruckCatalog.Models.pdb
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Validations\obj\Debug\net5.0\TruckCatalog.Validations.csproj.AssemblyReference.cache
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Validations\obj\Debug\net5.0\TruckCatalog.Validations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Validations\obj\Debug\net5.0\TruckCatalog.Validations.AssemblyInfoInputs.cache
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Validations\obj\Debug\net5.0\TruckCatalog.Validations.AssemblyInfo.cs
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Validations\obj\Debug\net5.0\TruckCatalog.Validations.csproj.CoreCompileInputs.cache
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Validations\obj\Debug\net5.0\TruckCatalog.Validations.csproj.CopyComplete
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Validations\obj\Debug\net5.0\TruckCatalog.Validations.dll
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Validations\obj\Debug\net5.0\ref\TruckCatalog.Validations.dll
+C:\Users\costa\source\repos\TruckCatalog\TruckCatalog.Validations\obj\Debug\net5.0\TruckCatalog.Validations.pdb
