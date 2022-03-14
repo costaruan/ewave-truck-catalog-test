@@ -203,6 +203,12 @@ public void ShouldUpdateATruckWithExistentId() {}
 //     - Model Year: 2022 -> 2023
 ```
 
+## 📝 Curriculum Vitae
+
+Following is the link for the Curriculum Vitae in the video.
+
+🔗 [Ewave & Volvo - Video Curriculum](https://youtu.be/3EvpCXXrKfM)
+
 ## 👦🏻 Created by [Ruan Costa](https://costaruan.dev/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/costaruan/)
